@@ -1,4 +1,4 @@
-# LiveChat Tag Custom Template for Google Tag Manager
+# ![LiveChat](./Icon.png) LiveChat Tag Custom Template for Google Tag Manager
 
 ### How to install
 
