@@ -1,8 +1,16 @@
-﻿___INFO___
+﻿___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
+
+___INFO___
 
 {
   "displayName": "LiveChat Tag",
   "description": "LiveChat tag allows you to set up a live chat tool on your website to provide real-time support to customers.  For additional information about this service, see livechatinc.com.",
+  "categories": ["CHAT"],
   "securityGroups": [],
   "id": "cvt_temp_public_id",
   "type": "TAG",
