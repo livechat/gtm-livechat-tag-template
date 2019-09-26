@@ -1,5 +1,5 @@
 homepage: "www.livechatinc.com",
 documentation: "https://www.livechatinc.com/help/google-tag-manager-template-gallery-add-livechat/",
 versions:
-  - sha: d23934aa5a05d63e0b870234823ea60530e9cd41
+  - sha: 2485417f7faecd01ee35c8366c7cfc96f6508653
     changeNotes: Initial Version
