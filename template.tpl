@@ -9,7 +9,7 @@ ___INFO___
 
 {
   "displayName": "LiveChat Tag",
-  "description": "The LiveChat tag enables you to add a chat widget to your website for real-time customer communication. For more information, visit http://www.livechat.com.",
+  "description": "The LiveChat tag enables you to add a chat widget to your website for real-time customer communication. For more information, visit https://www.livechat.com.",
   "categories": ["CHAT"],
   "securityGroups": [],
   "id": "cvt_temp_public_id",
