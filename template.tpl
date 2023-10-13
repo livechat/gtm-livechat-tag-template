@@ -9,7 +9,7 @@ ___INFO___
 
 {
   "displayName": "LiveChat Tag",
-  "description": "LiveChat tag allows you to set up a live chat tool on your website to provide real-time support to customers.  For additional information about this service, see livechatinc.com.",
+  "description": "The LiveChat tag enables you to add a chat widget to your website for real-time customer communication. For more information, visit http://www.livechat.com.",
   "categories": ["CHAT"],
   "securityGroups": [],
   "id": "cvt_temp_public_id",
@@ -30,7 +30,7 @@ ___TEMPLATE_PARAMETERS___
 
 [
   {
-    "help": "Copy the LiveChat license code from https://my.livechatinc.com/settings/code",
+    "help": "Copy the LiveChat license code from https://my.livechat.com/settings/code",
     "valueValidators": [
       {
         "type": "POSITIVE_NUMBER"
