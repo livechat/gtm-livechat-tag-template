@@ -1,5 +1,7 @@
 homepage: "www.livechat.com"
 documentation: "https://www.livechat.com/help/google-tag-manager-template-gallery-add-livechat/"
 versions:
+  - sha: f718dfa3e458706ca8f45379f325396584d01458
+    changeNotes: Rebranding
   - sha: 7b01cc34a4233bb08247cfc2a81d4a3547a48f83
     changeNotes: Initial Version
