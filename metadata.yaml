@@ -1,6 +1,8 @@
 homepage: "www.livechat.com"
 documentation: "https://www.livechat.com/help/google-tag-manager-template-gallery-add-livechat/"
 versions:
+  - sha: 745ac157d59b17191d745164401facd6badd2a14
+    changeNotes: Logo was updated
   - sha: 65ce9d3c5845f887dabe5ce7e622417b1c95e85e
     changeNotes: Logo updated
   - sha: f718dfa3e458706ca8f45379f325396584d01458
